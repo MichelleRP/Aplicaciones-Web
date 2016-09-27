@@ -1,0 +1,10 @@
+[
+     {
+	 "id": "1",
+	 "titulo": "The Notebook",
+	 "autor": "Nicholas Sparks",
+	 "editorial": "Grand Central Publishing",
+	 "descripcion": "The Notebook es una novela romántica de 1996, por el autor Nicholas Sparks. La novela luego fue adaptada al cine con el mismo título en 2004.",
+	 "img": "img/notebook.jpg"
+	}
+]

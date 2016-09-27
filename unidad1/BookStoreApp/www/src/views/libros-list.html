@@ -1,0 +1,31 @@
+<h1>Seccion De Libros</h1>
+
+<p>
+<strong>Buscar</strong>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+Titulo: <input ng-model="query.titulo">
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<strong>Ordenar</strong>
+ <select ng-model="orderField">
+ 		<option value="titulo">Titulo</option>
+        <option value="true">Editorial</option>
+    </select>
+    <select ng-model="orderReverse">
+ 		<option value="false">Ascendente</option>
+        <option value="true">Descendente</option>
+    </select>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+  
+</p>
+<ul>
+    <li ng-repeat="obj in libros | filter:query | orderBy:orderField:orderReverse">
+    	<div ng-include src=" 'src/views/_libro-detail.html' "></div>
+    </li>
+</ul>
+
+ 

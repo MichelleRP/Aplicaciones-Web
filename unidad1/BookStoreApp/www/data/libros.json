@@ -1,0 +1,43 @@
+[
+   {
+	 "id": "1",
+	 "titulo": "The Notebook",
+	 "autor": "Nicholas Sparks",
+	 "editorial": "Grand Central Publishing",
+	 "descripcion": "The Notebook es una novela romántica de 1996, por el autor Nicholas Sparks. La novela luego fue adaptada al cine con el mismo título en 2004.",
+	 "img": "img/notebook.jpg"
+	},
+	{
+	 "id": "2",
+	 "titulo": "A Walk To Remember",
+	 "autor": "Nicholas Sparks",
+	 "editorial": "Grand Central Publishing",
+	 "descripcion": " Cada mes de abril, cuando el viento sopla desde el mar y se mezcla con el aroma de las lilas, Landon Carter recuerda su último año en el instituto Beaufort.",
+	 "img": "img/walktoremember.jpg"
+	},
+	{
+	 "id": "3",
+	 "titulo": "Dear Jhon",
+	 "autor": "Nicholas Sparks",
+	 "editorial": "Grand Central Publishing",
+	 "descripcion": "Querido John es una novela romántica escrita por Nicholas Sparks y publicada por primera vez en 2006 por Warner Books. Fue traducida por Iolanda Rabascall para su publicación en castellano. Está ambientada en Carolina del Norte.",
+	 "img": "img/dearjhon.jpg"
+	},
+    {
+	 "id": "4",
+	 "titulo": "A Better Place",
+	 "autor": "Nicholas Sparks",
+	 "editorial": "Grand Central Publishing",
+	 "descripcion": "Cuando Katie aparece en la pequeña localidad de Southport, en Carolina del Norte, su precipitada llegada provoca muchas preguntas sobre su pasado. Katie es hermosa pero no le gusta lucirse y tiene una determinación obstinada por evitar cualquier relación demasiado personal hasta que una serie de desafortunados sucesos la obligan a establecer ciertos lazos: uno con Alex, un viudo propietario del colmado del pueblo y que tiene dos hijos pequeños y un gran corazón; el otro, con Jo, su soltera y muy franca vecina. ",
+	 "img": "img/unlugar.jpg"
+	},
+   {
+	 "id": "5",
+	 "titulo": "The Choice",
+	 "autor": "Nicholas Sparks",
+	 "editorial": "Grand Central Publishing",
+	 "descripcion": "The Choice es una novela romántica de 2007 escrita por Nicholas Sparks. En 2016, se realizó una adaptación cinematográfica de la novela, protagonizada por Benjamin Walker y Teresa Palmer.",
+	 "img": "img/nombreamor.jpg"
+	}
+
+]
